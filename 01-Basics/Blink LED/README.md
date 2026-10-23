@@ -28,4 +28,4 @@ Blinks an LED on and off once per second. The "Hello World" of Arduino.
 
 ## Demo
 <img src = "https://github.com/SaminJawad/Robotics-Arduino-Series/blob/main/01-Basics/Blink%20LED/live.gif" width = "400px">
-<b>Wokwi Link :</b> <a href = "https://wokwi.com/projects/478675309689802753">Blink LED</a>
+<b>Wokwi Link :</b> <a href = "https://wokwi.com/projects/478679177325785089">Blink LED</a>
