@@ -27,5 +27,5 @@ Blinks an LED on and off once per second. The "Hello World" of Arduino.
 **Why the resistor?** An LED has almost no resistance of its own, so without one it draws too much current and burns out (along with possibly the pin). With a typical red LED (~2 V drop), 220 Ω gives about 14 mA: bright and safe.
 
 ## Demo
-<img src = "https://github.com/SaminJawad/Robotics-Arduino-Series/blob/main/Basics/Blink%20LED/live.gif">
+<img src = "https://github.com/SaminJawad/Robotics-Arduino-Series/blob/main/Basics/Blink%20LED/live.gif" width = "400px">
 <b>Wokwi Link :</b> <a href = "https://wokwi.com/projects/478675309689802753">Blink LED</a>
