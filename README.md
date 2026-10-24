@@ -6,8 +6,9 @@ A growing collection of beginner-to-intermediate Arduino projects, from blinking
 
 | Project | Category | Components | Difficulty | Simulation |
 |---------|----------|------------|------------|------------|
-| [Blink LED](01-Basics/Blink%20LED) | Basics | LED, resistor | Easy | [Blink LED](https://wokwi.com/projects/478679177325785089) |
-| [Traffic Light](01-Basics/traffic-light) | Basics | 3 LEDs, 3 resistors | Easy | [Traffic Lights](https://wokwi.com/projects/478675309689802753) |
+| [Blink LED](01-Basics/Blink%20LED) | Basics | LED, Resistor | Easy | [Blink LED](https://wokwi.com/projects/478679177325785089) |
+| [Traffic Light](01-Basics/traffic-light) | Basics | 3 LEDs, 3 Resistors | Easy | [Traffic Lights](https://wokwi.com/projects/478675309689802753) |
+| [Button Toggle LED](01-Basics/Button%20Toggle%20LED) | Basics | LED, Resistor, Push Button | Easy | [Button Toggle LED](https://wokwi.com/projects/478675309689802753) |
 
 More projects will be added.
 
